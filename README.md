@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/basic-html-and-css-for-mobile-and-desktop-view-rkY-CReBi)
 - Live Site URL: (https://egatlov.github.io/Frontend-mentor-3-column-card/)
 
 ## My process
