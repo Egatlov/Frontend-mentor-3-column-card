@@ -60,6 +60,7 @@ p{
 
 .card{
 	padding: 30px;
+	min-width: 310px;
 }
 
 .btn{
